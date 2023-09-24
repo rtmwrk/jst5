@@ -1,0 +1,27 @@
+{
+  "name": "js-test-hw5-puppeteer-cucumber",
+  "version": "0.0.1",
+  "description": "this is homework 5 for javascripts testing course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "puppeteer",
+    "cucumber",
+    "homework"
+  ],
+  "author": "rtm_wrk, rtm_wrk@rambler.ru",
+  "license": "ISC",
+  "homepage": "https://github.com/rtmwrk/jst5#readme",
+  "bugs": {
+    "url": "https://github.com/rtmwrk/jst5/issues"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.0",
+    "puppeteer": "^21.3.4"
+  }
+}
